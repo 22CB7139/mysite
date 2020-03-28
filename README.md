@@ -1,2 +1,2 @@
 # mysite
--基于Django
+- 基于Django,采用uwsgi+nginx
